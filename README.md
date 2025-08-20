@@ -1,6 +1,6 @@
 <a name='#readme-top' ></a>
 
-# Frontend Mentor - Single-page developer portfolio
+# nimraakhtar - portfolio
 
 ## Table of contents
 
